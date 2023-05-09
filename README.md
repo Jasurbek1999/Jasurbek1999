@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Front End Developer
 --------------------------
 
-My name is Jasurbek and I am 23 years old. I have been learning to code for 1 year during my last semesters in the Jeonbuk National University as an International Engineering and Science student . I have been inspired from a lot of my friends who got the job as a web developer, since then I have developed a strong passion into coding and learning. My hobbies are reading books, playing soccer and have some quality with my friends and family.
+My name is Jasurbek and I am 23 years old. I have been learning to code for 1 year during my last semesters in the Jeonbuk National University as an International Engineering and Science student . I have been inspired from a lot of my friends who got the job as a web developer, since then I have developed a strong passion into coding and learning. My hobbies are reading books, playing soccer and have some quality time with my friends and family.
 
 * 🌍  I'm based in Jeonbek, South Korea
 * 🧠  I'm learning new frameworks
